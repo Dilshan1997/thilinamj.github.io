@@ -78,7 +78,7 @@ h4 {
 }
 
 .footer {
-    background-color: #434242;
+    background-color: #143060;
     text-align: center;
     padding: 20px;
     margin-top: 10px;
@@ -131,13 +131,13 @@ h4 {
 }
 
 .journal_logo {
-    width: 100%;
-    display: none;
+    width: 50%;
+    box-shadow: 0 0 10px 0 rgba(50, 50, 50, .5);
 }
 
 @media (min-width: 992px) {
     .journal_img {
-        width: 75%;
+        width: 100%;
         box-shadow: 0 0 10px 0 rgba(50, 50, 50, .5);
     }
     .journal_logo {
