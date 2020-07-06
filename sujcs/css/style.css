@@ -1,10 +1,10 @@
 .bg-dark {
-    background-color: #0099cc !important;
+    background-color: #603F83FF !important;
     margin-bottom: 0 !important;
 }
 
 button.bg-dark:hover {
-    background-color: #006699!important;
+    background-color: #603F83FF!important;
 }
 
 .mb-5,
@@ -20,7 +20,7 @@ button.bg-dark:hover {
 .list-group-item.active {
     z-index: 2;
     color: #fff;
-    background-color: #006699;
+    background-color: #603F83FF;
 }
 
 .navimg {
@@ -80,7 +80,7 @@ h4 {
 }
 
 .footer {
-    background-color: #0099cc;
+    background-color: #603F83FF;
     text-align: center;
     padding: 20px;
     margin-top: 10px;
@@ -176,7 +176,7 @@ h4 {
     display: block;
     padding: .75rem 1.25rem;
     margin-bottom: -1px;
-    background-color: #0099cc;
+    background-color: #02232e;
     border: 1px solid rgba(0, 0, 0, .125);
     font-size: 18px;
     color: #fff;
@@ -199,8 +199,8 @@ h4 {
 }
 
 .list-group-item-action:hover {
-    background-color: #006699;
-    color: #ffffff
+    background-color: #603F83FF;
+    color: #C7D3D4FF;
 }
 
 .searchform {
@@ -234,4 +234,11 @@ h4 {
 
 .editor {
     color: #007398;
+}
+.leftside{
+    opacity:0.5;
+}
+
+.leftside:hover{
+    opacity:1;
 }
