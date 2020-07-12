@@ -80,7 +80,7 @@ h4 {
 }
 
 .footer {
-    background-color: #603F83FF;
+    background-color: #171337;
     text-align: center;
     padding: 20px;
     margin-top: 10px;
@@ -199,7 +199,7 @@ h4 {
 }
 
 .list-group-item-action:hover {
-    background-color: #603F83FF;
+    background-color:#171337;
     color: #C7D3D4FF;
 }
 
@@ -236,7 +236,7 @@ h4 {
     color: #007398;
 }
 .leftside{
-    opacity:0.5;
+    opacity:1;
 }
 
 .leftside:hover{
